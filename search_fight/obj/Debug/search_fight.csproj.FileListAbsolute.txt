@@ -1,0 +1,16 @@
+E:\gipo\proyectitos\search_fight\search_fight\obj\Debug\search_fight.csprojAssemblyReference.cache
+E:\gipo\proyectitos\search_fight\search_fight\obj\Debug\search_fight.csproj.CoreCompileInputs.cache
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\search_fight.exe.config
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\search_fight.exe
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\search_fight.pdb
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Services.dll
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Entities.dll
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Helpers.dll
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Services.pdb
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Entities.pdb
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\Helpers.pdb
+E:\gipo\proyectitos\search_fight\search_fight\obj\Debug\search_fight.csproj.CopyComplete
+E:\gipo\proyectitos\search_fight\search_fight\obj\Debug\search_fight.exe
+E:\gipo\proyectitos\search_fight\search_fight\obj\Debug\search_fight.pdb
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\BussinessLogic.dll
+E:\gipo\proyectitos\search_fight\search_fight\bin\Debug\BussinessLogic.pdb

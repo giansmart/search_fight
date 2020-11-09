@@ -1,0 +1,11 @@
+E:\gipo\proyectitos\search_fight\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\gipo\proyectitos\search_fight\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Services.dll
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Services.pdb
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Entities.dll
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Helpers.dll
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Entities.pdb
+E:\gipo\proyectitos\search_fight\Services\bin\Debug\Helpers.pdb
+E:\gipo\proyectitos\search_fight\Services\obj\Debug\Services.csproj.CopyComplete
+E:\gipo\proyectitos\search_fight\Services\obj\Debug\Services.dll
+E:\gipo\proyectitos\search_fight\Services\obj\Debug\Services.pdb

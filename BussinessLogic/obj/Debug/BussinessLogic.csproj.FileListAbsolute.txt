@@ -1,0 +1,13 @@
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\BussinessLogic.dll
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Entities.dll
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Services.dll
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Helpers.dll
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Entities.pdb
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Services.pdb
+E:\gipo\proyectitos\search_fight\BussinessLogic\bin\Debug\Helpers.pdb
+E:\gipo\proyectitos\search_fight\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+E:\gipo\proyectitos\search_fight\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+E:\gipo\proyectitos\search_fight\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+E:\gipo\proyectitos\search_fight\BussinessLogic\obj\Debug\BussinessLogic.dll
+E:\gipo\proyectitos\search_fight\BussinessLogic\obj\Debug\BussinessLogic.pdb

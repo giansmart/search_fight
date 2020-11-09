@@ -1,0 +1,6 @@
+E:\gipo\proyectitos\search_fight\Helpers\bin\Debug\Helpers.dll
+E:\gipo\proyectitos\search_fight\Helpers\bin\Debug\Helpers.pdb
+E:\gipo\proyectitos\search_fight\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+E:\gipo\proyectitos\search_fight\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+E:\gipo\proyectitos\search_fight\Helpers\obj\Debug\Helpers.dll
+E:\gipo\proyectitos\search_fight\Helpers\obj\Debug\Helpers.pdb
